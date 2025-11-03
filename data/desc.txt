@@ -1,5 +1,0 @@
-br 15
-hr more than 80 bpm
-chirp 32
-adc 256
-FS 20
