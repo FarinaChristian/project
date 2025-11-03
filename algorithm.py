@@ -8,7 +8,7 @@ This code contains an algorithm for extracting vital signs from some files recor
 The work consists of completing some missing parts. (You can find the explanation of the missing parts in the article)
 '''
 
-FS=25
+FS=20
 
 def calculateRate(filtrato):
     phaseFFT=np.fft.fft(filtrato)
